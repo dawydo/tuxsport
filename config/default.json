@@ -1,8 +1,0 @@
-
-{
-    "mongoURI": "mongodb+srv://dawydo:dawydo123@cluster0-0ar91.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "7aa13390ec0033d533d0",
-    "githubSecret": "3706c60cbe8b325eb6f5c2ec6838a11307d49709",
-    "githubToken": "b786019158ff1a22c3af14bc0ff069e584ce9068"
-}
